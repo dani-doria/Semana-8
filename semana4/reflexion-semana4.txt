@@ -1,8 +1,0 @@
-Es importante que las comunidades puedan construir herramientas tecnológicas propias porque esto ayuda a resolver problemas de forma más rápida y organizada. 
-Tecnologías abiertas como Node.
-js permiten crear aplicaciones sin depender de programas costosos.
-Además, facilitan la participación ciudadana y mejoran la comunicación entre las personas.
-Estas herramientas ayudan a compartir información en tiempo real y permiten desarrollar soluciones adaptadas a las necesidades de cada comunidad.
-También fomentan el aprendizaje de programación y tecnología.
-Node.js es útil porque permite crear servidores y aplicaciones web de manera sencilla y eficiente. 
- Gracias a esto, las comunidades pueden innovar y fortalecer el trabajo colaborativo mediante herramientas digitales.
